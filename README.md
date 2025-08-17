@@ -87,9 +87,9 @@ output.png                # Example sentiment graph
 
 ## 📊 Example Output
 
-* The **blue line** represents positive sentiment intensity
-* The **red line** represents negative sentiment intensity
-* The **green line** represents neutral sentiment intensity
+* The **blue line** represents positive sentiment threshold
+* The **red line** represents negative sentiment threshold
+
 
 
 
