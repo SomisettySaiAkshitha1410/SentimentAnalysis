@@ -81,7 +81,7 @@ output.png                # Example sentiment graph
    ```
 3. The program will output a **sentiment graph** like this:
 
-![Sentiment Graph](images/sample_output.png)
+![Sentiment Graph](sample_output.jpg)
 
 ---
 
