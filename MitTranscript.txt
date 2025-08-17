@@ -1,0 +1,1554 @@
+0:00
+The following content is provided under a Creative Commons license. Your support will help MIT OpenCourseWare
+0:06
+continue to offer high quality educational resources for free. To make a donation or to view additional materials
+0:12
+from hundreds of MIT courses, visit MIT OpenCourseWare at ocw.mit.edu.
+0:17
+0:26
+JANET RANKIN: A general comment is by and large, I thought you guys did a great job. Your learning outcomes were for the most part
+0:33
+specific, measurable, and realistic. The biggest problem I think I had was with-- the biggest
+0:39
+problem that you had on average was the idea of the learning outcomes really have to be measurable.
+0:45
+So if you use a word like appreciate, it's not measurable.
+0:50
+So that's something to remember. If you use words like discuss, it's potentially measurable.
+0:57
+But you need to make sure that you set up a venue for students to discuss. You can't just say you'll be able to discuss that and assume
+1:04
+that they'll be able to discuss it, That If that's in your learning outcome, you have to set up some venue for them to discuss
+1:09
+and you to know what they're discussing. And then the two biggest things that come up,
+1:15
+or the two most problematic words that come up-- and I compliment you all, because you did a great job.
+1:21
+Nobody used understand. So that was awesome. But the other thing, there's words
+1:27
+like explain and describe, which are perfectly good words to use in a learning outcome.
+1:33
+But you have to make sure that when you say, students will explain the ideal gas law.
+1:44
+They'll be able to explain the ideal gas law. Well do you know that they're really explaining it
+1:51
+in the true sense of that word that they actually internalized what it means, and they're really explaining it?
+1:56
+Or are they just spitting it back, spitting back, maybe, what they read in a book, a definition
+2:01
+that they read in the book? So you have to make sure that you've set up a situation wherein they really are explaining.
+2:08
+And they're not just remembering. So it's a great word to use. But you have to make sure that we're
+2:15
+using in the right context. Same thing for describe. You can imagine that has the same issues. Describe da, da da, da, da.
+2:21
+Well are you sure they're doing the describing? Or are they just remembering somebody else's description and writing it down?
+2:27
+One good way around that is to tweak the parameters a little bit. To say, in a world where there is no oxygen,
+2:36
+what do you expect this organism to look like,
+2:41
+given that it has to run really fast or something? So come up with alternate realities that that actually force students to transfer and then
+2:49
+re-explain. That can be helpful. That can be really, really helpful. I remember once in a kinetics class,
+2:56
+we had been deriving the critical nucleus size for growth. And it's all based on a radius, a critical radius.
+3:03
+And then on the exam, the guy said OK, they don't grow as sphere's. They grow as rectangular boxes.
+3:11
+So then all of a sudden, we had to look at the ratio of the length to the height of the box
+3:18
+or something. So that really wasn't just we were just remembering a solution or remembering a method.
+3:23
+We had to actually think about what it meant and then reapply it.
+3:28
+So just think about how you can get students to really describe, explain, derive even, because you
+3:34
+can memorize a derivation. But if you really want them to derive it, what does that mean?
+3:41
+How are you going to test that? So those are generally the biggest problems people have with learning outcomes. But by and large, you all did a great job.
+3:48
+If you came in late, I'll give you your learning outcomes at the end to class. If you looked at the Wiki-- and this is a test to see who
+3:57
+looked at the Wiki-- I had suggested you bring a web enabled device if you had one.
+4:03
+And that's because I wanted to set up something called Back Channel The topic today is on active learning.
+4:09
+And so this is just one method that might help your students, especially if you have a big class.
+4:14
+So we don't really need it in this class, but I just wanted to give you the opportunity to play with it a little bit.
+4:20
+It was designed for conferences actually. But it works pretty well, I think, in classes.
+4:25
+So if you login to here, this is the URL. If you go to our Wiki page bookmarked,
+4:31
+there's a link on the Wiki page, if you just want to link to it that way. And then at any point in the class, you can type a question in.
+4:38
+And if you're on the page, you can see other people's questions. You can upvote and downvote their questions.
+4:44
+And I will take a break in the middle, when you're doing some other things, and read what people have posted
+4:49
+and then get back to you. So it's an opportunity for students to interact who may be a little more shy, who may not want to.
+4:56
+I don't think we need that in this class. I don't think that there's any one of you that isn't willing to share your ideas, which is great.
+5:02
+But this may be something that's of interest to you. Before we jump into the topic today, active learning,
+5:10
+there were a couple of mud card questions that I just wanted to talk about. One was sometimes students may nod off during class.
+5:21
+And if it's a big class, there's probably not a lot you can do about it.
+5:27
+If you do enough active learning, though, that will keep them-- that will make them wake up.
+5:32
+Especially pair activities or activities where they have to talk to one or two other people,
+5:39
+or two or three other people, it's pretty hard to be asleep during those. And you'll see. We're going to do something called a lightning round later
+5:45
+on. And it's virtually impossible to be asleep during that. So you want to make sure that it's worth the student's time to actually be in class
+5:53
+and be awake for it. And active learning can play a huge role in that.
+5:59
+Sometimes people are tired. They stayed up too late for whatever reason. And you can't control everybody in your class.
+6:05
+But you want to make sure that you're doing everything you can do to keep them engaged.
+6:11
+And if it's just one student every now and then, you probably don't want to take it personally.
+6:16
+It's probably not you. If the whole class is falling asleep, then it's probably a good opportunity to rethink your strategies.
+6:24
+Somebody asked if there were good times of day to have a lecture. And part of it is you.
+6:30
+Part of is your schedule. Sometimes you're allowed. You can pick that. And sometimes you really don't have much control over when
+6:36
+you choose to teach your class. People do say that students, undergrads, people between the ages of 18 and 21
+6:43
+are not particularly interested in being up at 8:00 or 9:00 in the morning. But again you may not have any control over that.
+6:51
+Generally speaking, that's a pretty low time for people.
+6:58
+So if you want to take that into consideration, you might. But it depends as much on you as the students.
+7:05
+If you're going to be really tired at 4:00 but they're just waking up, then don't teach it at 4:00.
+7:11
+Maybe don't teach at 4:00. And the last one was guiding readings.
+7:18
+If you just put a lot of readings up, students might not know where to focus their attention until after the class.
+7:24
+So there are reading questions, reading guides that you can post.
+7:30
+Read such and such and try and think about how you might explain this, that, or the other thing. And then there's also pre-class questions
+7:37
+you can ask that they might derive, that they may have to pull from the readings to answer.
+7:43
+So the concept of just in time teaching, the idea
+7:48
+that students do a reading and then they actually have to answer questions on the reading before they come to class and submit their answers.
+7:56
+So there's a whole procedure around that. It can be very, very effective. You can do it for a large class.
+8:01
+There's strategies and techniques to streamline the amount of time you put into it. But it does force them to do the reading.
+8:07
+And it does guide, at some level, what they read. And that's a great great approach.
+8:13
+And I'm happy to talk more about that at another time or later
+8:18
+or offline. I did go to the Teaching with Technology conference,
+8:24
+the Teaching Professor Technology Conference. And they were giving out little ribbons to stack on your badge.
+8:30
+And this was a prominent one. It's in the syllabus, which I thought was just crazy timely because a couple of weeks ago.
+8:36
+So if you want one of these to stick somewhere. And then they all said when I tweet, which was sort of weird.
+8:43
+But anyway I brought those back. Anybody want some.
+8:57
+Sometimes my computer doesn't wake up.
+9:03
+So let's pretend that instead of the class active learning
+9:09
+today, I decided I was going to teach you how to juggle. And I said, here's the equation for how to juggle.
+9:17
+And here's the variables, F, D, V N, and H, which are ball in the air, ball in an hand,
+9:22
+time hand is vacant, number of balls, number of hands. And this is this handy dandy equation,
+9:28
+which if you balance it out, it describes the juggling process. And for those of you that are visual learners,
+9:34
+I have a graph here, a yellow ball, a blue ball, and a pink ball. And then you can see that just shows the path of the balls.
+9:42
+If you remember from physics, there's the equations of motion in the x direction in the y direction.
+9:49
+And so I think I probably did a pretty good job of teaching you
+9:54
+how to juggle.
+9:59
+No, did a terrible job of teaching you how to juggle. I didn't even come close to teaching you how to juggle.
+10:05
+And if I were to give you a test, let's say, and I were to measure whether or not you could juggle, I guarantee that some of you
+10:13
+would be able to juggle. And I could say, I did a great job teaching how to juggle.
+10:21
+But I didn't. If you knew how to juggle coming in, presumably you still know how to juggle.
+10:26
+I did no harm, I think. However if you didn't know how to juggle coming in,
+10:31
+you don't know how to juggle now. So why is this here now?
+10:38
+Why did I bother to do this stupid thought experiment right now?
+10:48
+AUDIENCE: Because this is clearly how most classes are taught. Obviously it would be easier to have a ball
+10:54
+and show us how to juggle, active learning as opposed to just showing the theory behind it and ending there.
+11:00
+JANET RANKIN: And I think a lot of times we really do, in science and engineering classes, we really put up a lot of equations.
+11:07
+And then it's not like we expect somebody to do something physically with them. But we expect them to be able to manipulate the equations,
+11:14
+transfer the equations, apply the equations. And we never really talked about that.
+11:20
+We talked about the equations. So it's a real call in my mind, for us
+11:28
+to think about what it is we really want students to be able to do. And then make sure that they're doing stuff
+11:34
+to teach them that helps them learn how to do that. And I know you all read the readings
+11:42
+and that they talk a lot about active learning. There's a few things about techniques for active learning.
+11:47
+There's a few things about the why's of active learning. There's some data for why active learning works.
+11:53
+But I'm guessing that there's a range of buy in at this point from you guys. Eh, I don't think it's worth it.
+11:59
+Or I don't really know. So for the first 20 minutes, 25 minutes
+12:06
+of class, what I'd like you to do is I'd like you to pretend that you were part of a department, the STEM department.
+12:15
+Call it whatever field you want. And there is a proposal that your department
+12:20
+should commit funds to train professors and develop resources, the resources necessary for the adoption and ongoing use of active learning
+12:27
+techniques in all courses. And the target date is 2017.
+12:33
+You've got a year to get all courses up to speed with active learning stuff introduced
+12:40
+into these classes and with a plan for how to do that.
+12:45
+So what I'm going to do is I'm going to just count off one, two, three, one, two, three.
+12:50
+And I'm going to ask you to form a group. If you're a one, go with the one group.
+12:55
+Two go with the two group. A three go with the three group. And you're going to have to physically move.
+13:01
+So just remember your number. One. AUDIENCE: Two. AUDIENCE: Three. AUDIENCE: One.
+13:07
+AUDIENCE: Two. AUDIENCE: Three. AUDIENCE: One. AUDIENCE: Two. AUDIENCE: Three.
+13:12
+AUDIENCE: One. AUDIENCE: Two. AUDIENCE: Three. AUDIENCE: One. JANET RANKIN: It doesn't matter that they're not the same size.
+13:19
+Can we get all the ones, let's say all the ones up here? All the twos here.
+13:26
+And all the threes there. And I'll tell you what to do in just a sec. So if you're group number one, you
+13:33
+have to adopt the position that you are pro. You are going to push for the adoption of this resolution.
+13:39
+And you have to come up with a set of arguments and a set of reasons why it's a good thing. I don't care what you think personally.
+13:45
+I don't care if you think active learning is the worst idea ever. For the purposes of this debate, you
+13:50
+need to pretend you're totally into it. And you need to come up with some good arguments why.
+13:56
+Two are against it. Again, I don't care how you feel personally.
+14:02
+But come up with some good solid arguments why you should not do this. AUDIENCE: We are against it?
+14:08
+JANET RANKIN: Against, you do you not want it. No. Group number three, you got a little bit of time.
+14:14
+But get to know each other. And you're going to hear the arguments.
+14:19
+You're going to hear a case presented by the pro people, the con people. And then you are going to deliberate and decide
+14:26
+what's going to happen in your department. You guys are the deciders. It's an American political joke.
+14:31
+But we'll let that go. And you guys get this lovely microphone.
+14:38
+So I'm going to give you 10 minutes for this. So be ready to share your views.
+14:43
+You've got about, maybe, two or three minutes of a spiel of proof. And then we'll do one exchange of debate.
+14:51
+And then the deciders will decide. [SIDE CONVERSATIONS]
+15:06
+JANET RANKIN: I'm going to ask someone from each of the groups to make a statement that puts forth the side
+15:13
+that you're supposed to defend, if that is the side you're supposed to defend. So we'll start with the pros.
+15:20
+So someone from your group ready to talk pros?
+15:29
+All right, Michelle. AUDIENCE: So we are pro active learning.
+15:35
+And part of the basis for thinking that active learning's important is that we believe that without active learning,
+15:42
+the professor usually just resorts to lecturing. And we think that lectures are not effective. Students don't learn simply because the material
+15:49
+is presented to them. Lecturing wastes resources, because you could be lecturing to 1,000.
+15:55
+But only 15 students may be reached. And if you use active learning instead of lecturing,
+16:01
+it can make sure the students are paying attention. You can check that they're understanding. You can know what they are getting
+16:07
+and what they're not getting. We also feel that active learning is a life skill. And that if students learn to learn by do things
+16:15
+and they learn by talking to each other and by going through a process and solving problems,
+16:21
+that they can take this skill to outside of the classroom later
+16:26
+in society. Then that the society that you have students who are used to being active learners and who know how to solve problems that way.
+16:34
+And we also think that the end, the big point that we have is that you remember things that you use.
+16:41
+If you learn something, if it goes in one ear and out the other, if you don't actually use it, you're not going to remember it.
+16:47
+If you're not forced to actually work through a problem and really think about it and use it in a classroom,
+16:52
+that you're much less likely to actually hold on to that information. So these are all reasons why we think
+16:58
+that we should promote active learning in our department.
+17:04
+JANET RANKIN: OK, thank you very much. The con, or I guess I should say the not whatever.
+17:11
+Anyway, group two. AUDIENCE: Do you want to do it? AUDIENCE: OK.
+17:16
+We start with a basic question.
+17:22
+The question is, why do we want to change what is working? We are training our students. They are getting job.
+17:28
+The professor are doing well. They are collecting grants. The original [INAUDIBLE] is OK.
+17:34
+So why do you want to change what is working? So that is the first question. Now the first thing is that, if you want to go about this,
+17:40
+it's going to consume a lot of money. It's going to take a lot of money. And then it cuts into your funds. The one funds for other such, want to buy equipment
+17:49
+for the laboratory, want to go hire scientists, want to go hire post doc. So why do we want to change? Where do we get these funds?
+17:55
+We divert funds for the training of professors. And they're going to be little bit of no funds for all
+18:01
+this such work. And secondly, the efforts to train professors
+18:06
+is likely to be very huge. Professors are used to this method of teaching. And as you saw, they will not want to change.
+18:12
+There's going to be a lot of time changing them. And we're not even sure, if we try to change them,
+18:18
+whether they're going to be able to do it at the end of the day. Thirdly, we are not sure that the stakeholder would be happy.
+18:25
+What about the alumni that are very much used to the method of teaching? What about the parents?
+18:30
+are they now going to go against us? Will they not see that the professor no longer, just come to the class, give them group work like this
+18:38
+without teaching, without writing? Then the professor is no longer teaching. And they are just going to collect their salary.
+18:45
+And then, there's not to be constrained on time to cover syllabus.
+18:50
+When I saw I spend a lot of money being in group work, individual, or this and that. So how do you complete your syllabus?
+18:57
+You have about 20 topics to cover this semester. And by the time you start active learning, how are going you cover about 50% of them?
+19:05
+Then you push all of that up [INAUDIBLE]. So it's not going to work. We should just drop the idea.
+19:12
+What have we value very last class? You have your class of 500. How do you want active learning to be effective?
+19:18
+How do you want to treat them? It's good here, because we are just about 15 or less than 20. By the time you have 500 students in a class,
+19:26
+it's going to be very difficult for you to have active learning, difficult for the professor
+19:31
+to control classes, and of course, difficult for you to really get something concrete out of the whole thing.
+19:37
+So my final guys and professors, I think it's not necessary. the.
+19:42
+System is working. Let it continue to work this way. Thank you. JANET RANKIN: So now what I'm going to do
+19:48
+is I'm going to let each group ask one question or a set of clustered questions
+19:55
+to the other group. The other group can answer them. And then the deciders can ask a couple questions.
+20:02
+And then we'll let them deliberate. So group number one, like to ask some questions to group number
+20:07
+two or make some comments? Go ahead. AUDIENCE: Yeah, I listened to you speak.
+20:15
+And I want to ask you. You are saying that the system is changing.
+20:21
+It is changing because the status quo isn't delivering.
+20:28
+So that is why we are adopting active learning. And this is proven from a research perspective.
+20:35
+There is actually letting more students learn more materials faster and more effectively.
+20:43
+So what do you think about that? AUDIENCE: I'll answer it by saying
+20:50
+the different research shows us that the student that is good
+20:55
+is good. [INAUDIBLE] So why can't we just concentrate on getting those students?
+21:03
+And what your presentation didn't say about funds, was the whole idea is to fund the proposal.
+21:11
+And if we divert funds to this new program, and that's a very big issue.
+21:18
+You have to concentrate on the question that is the diversion of funds away from research.
+21:24
+So if we can get the new students and they can learn by [INAUDIBLE], and it's working great--
+21:29
+go ahead. AUDIENCE: So you want to throw away the baby with the bath water?
+21:35
+If you have 20 students in a class,
+21:40
+and you have five active learners, and then you want to discover 15 that wouldn't.
+21:46
+This program is geared towards each one of the students
+21:53
+in the class to participate. And I think it's more cost effective.
+21:59
+If you could get all the 20 students to learn and to learn actively, I
+22:05
+think that would pay itself off at the end of the-- AUDIENCE: No, the problem there is that you have to face the proposal.
+22:13
+This is 2017. It's a lot of change in a very short time.
+22:19
+The proposal itself is already against-- AUDIENCE: Our department could be three people big. We don't know how much the department is.
+22:25
+[INTERPOSING VOICES] AUDIENCE: But then the issue there is that you're going to retrain professors.
+22:31
+Professors are really stuck in their ways. And you spend all this money. And it's very short time.
+22:39
+There's lots of people from the labs, and money from the labs in this very short time
+22:44
+to train them on something we don't know if they're ready to buy into it. AUDIENCE: So I think your assumption is that--
+22:51
+you're like, we're deferring funds from labs and resort. But you never once said you're diverting funds from anything
+22:59
+related to the students. You're thinking of it from the professor perspective.
+23:04
+But really professors are here to teach their students. And you're like, oh, we're taking money away from the research, from the lab equipment,
+23:10
+from all these different things that sound great to the professor but have literally nothing to do with the students learning experience
+23:16
+or the student's experience on campus. And from the student's perspective, that's really frustrating, when that's all the professors care
+23:22
+about. And that's what makes a difference between a good professor and a crap professor is one who cares.
+23:28
+And I think, if you want a professor to care, oftentimes they're willing to make the effort that
+23:34
+is needed to change their teaching style or do whatever it is that's necessary to have their kid interested and engaged in the same material
+23:41
+that this professor loves. So you keep talking about diverting funds. But you never once mentioned diverting these funds
+23:48
+away from this one teaching initiative to a different teaching initiative. So just keep that in mind .
+23:54
+AUDIENCE: So the problem is that when we are looking at the proposal itself, the time, 2017, this is already the end of 2015.
+24:01
+So that means you are going to do this, by 2017, that means you're going to do it by 2016.
+24:09
+We're not against active learning in the [INAUDIBLE]. [LAUGHTER]
+24:15
+[INTERPOSING VOICES] AUDIENCE: --the proposal. We are against-- we need these two group
+24:21
+and against this proposal. So for this proposal, we are against this proposal, because you know how much it's about the funds
+24:29
+and the resources. And that is why we are against the proposal. And also you pick whatever [INAUDIBLE],
+24:36
+we're not even sure that it is going to work. JANET RANKIN: I'm going to take, because you guys actually did ask a question, so I'm going to count that to you
+24:44
+Did you have another separate one? AJ, you look like you might have some questions.
+24:50
+AUDIENCE: Yeah actually I was just curious, so if this initiative is really great,
+24:55
+it looks like a lot of this research has been done since '80s. Why isn't it adopted?
+25:01
+Why are we having this conversation now in 2015? AUDIENCE: I think we should look back
+25:08
+at this issue of the lecturing system that we are using now. It's static. When there was no printing, lecturers then,
+25:19
+they get the material. They reach the students. So lecturing is a Latin word that means reading.
+25:25
+Now since then, now we are printing. We have information readily available that people can get on at their home and their own
+25:31
+and develop to something. Too So there is a need for us to change to a new system,
+25:36
+because the old system that more facilitated lecturing has
+25:41
+changed. So then we have to change. JANET RANKIN: I'm going to turn it over
+25:46
+to the deciders who now have to discuss. They've been resting for many minutes.
+25:53
+So now they have to. So you have questions for each of the groups? AUDIENCE: Yeah. AUDIENCE: Yeah, thank you.
+25:59
+Great arguments on both sides. I found it interesting, when you talked about the larger classes, so my first question is for this group.
+26:06
+So how would active learning apply to a large class? The proposal is that it's for all courses.
+26:12
+And so are there courses where this doesn't lend itself to? AUDIENCE: Even in the classes with 700, 800 students here,
+26:19
+they still do active learning for the freshmen, i.e. Clicker questions. Oftentimes professors have to talk to your partners.
+26:26
+So they'll pose a question. Everyone will click on their answer. And then they'll be like, now go back
+26:32
+and talk to the person sitting next to you. And then you'll vote again in two minutes.
+26:38
+So I think that's just one example of how you can engage a class of a lot of students.
+26:46
+AUDIENCE: And to add to that, actually it's also been found out that when peers speak to themselves,
+26:55
+they even learn the material better than when the expert, who may have lost touch to what it could be
+27:04
+like to learn from a student's perspective. So peers speak to themselves and teach themselves even faster
+27:12
+than the expert who is in front of them.
+27:19
+AUDIENCE: Yeah I have comment for the against group.
+27:27
+You mentioned that you don't require to create
+27:33
+or active learning, because some students are very smart. They get it right.
+27:39
+But don't you think that education is a right of every child? And they deserve to have a good shot at it.
+27:46
+So why do you want to pull one child out of here, because he's not smart enough?
+27:53
+AUDIENCE: I just to answer, I think we are pushing for the best education. We believe that is the traditional way.
+28:00
+We think that active learning can happen outside of the classroom. This is the way it's worked for 300 plus years
+28:07
+over at Harvard, one of the best universities, MIT for 100 plus years.
+28:14
+We think that essentially it's working. And the reason we're having this conversation right
+28:21
+now is because it has worked. So we want to continue that legacy.
+28:26
+We think that every system is going to have problems. And if you analyze any system, you're going to find issues.
+28:33
+And there are certainly some smaller inefficiencies within the lecture. But by and large, it's trusted.
+28:40
+And it works. AUDIENCE: I want to add on what adding.
+28:47
+So I think we are not pushing those less smart kids away, because they can actually learn from each other outside
+28:56
+of class. We just want to say that doing the lecture is more efficient if the professor lecturing at them,
+29:06
+giving all the information. As a footnote to that-- sorry--
+29:11
+if professors come to the class and just give theory
+29:16
+and go away, and the smart kids get it, then how do you measure the professor's performance?
+29:22
+How do you think about, say, something like students information on educational quality?
+29:29
+How do you measure that? AUDIENCE: You don't really need the professor
+29:37
+to be extremely active and do active teaching in the class. The full student can actually get what they need.
+29:43
+You have a bunch of homeworks. You have a bunch of test questions, exam questions,
+29:48
+that student, whether they like it or not, they will surely be forced to read those things. And by the time they come back, they come back learning.
+29:56
+Lot of graduate from MIT, they are l really doing well. About 25% start up their own business. Probably like 70% get jobs when they finish.
+30:04
+What are you talking about? The system is working. And That's what we're saying. And their value is a great.
+30:10
+The evaluation is done on the type of textbook, the mode of lecture, the [INAUDIBLE] lecture. So these are the things that I try to evaluate
+30:17
+in the evaluation process. And it has been great. And we want it to continue.
+30:24
+AUDIENCE: So we addressed the measuring impact. And that goes for both. But for the active learning, how do we
+30:31
+quantify how much active learning needs to go into these different classrooms in the department?
+30:39
+So how will we ensure the appropriate amount
+30:44
+has been implemented in different classrooms?
+30:55
+Basically, how much active learning needs to go into a classroom to create change
+31:02
+or to strengthen our student learning? AUDIENCE: How much has to go in or how you're going to make sure that the professors are doing it?
+31:10
+AUDIENCE: Both, I guess, is the question. If there's a professor that's more on the lecture side
+31:15
+that might throw one thing pair share in and call it a day. So how do we ensure the appropriate active learning
+31:24
+techniques and the quantity are there for the classrooms? AUDIENCE: I think we'd have to go back to the research
+31:30
+and see how much, whether it's 30% of the time needs to be spent on active learning activities,
+31:35
+or to see what has been proven, because active learning has been proven to be effective.
+31:42
+But we would have to go back and make sure that we set a standard that, if it is 30% of the time
+31:48
+or 70% of the time. And I think oversight from the department would be important, in that the leadership in the department
+31:54
+will have to sit in on classes. And as part of the training of the professors,
+32:00
+there has to be training. But then there has to be someone to observe them in the class, give feedback.
+32:06
+The training has to be ongoing. It's not just a three hour seminar on this is with active learning is. And this is what you should do.
+32:11
+I think it's going to be a long term investment in the professor training that someone's going to have to check up and give them
+32:18
+feedback. And then they can adjust from there. JANET RANKIN: I'm sure that we could [INAUDIBLE] all day.
+32:24
+But I'm going to give the deciders two and a half minutes, three minutes, to talk to each other
+32:31
+and come up with a decision. All right, the committee has met.
+32:37
+And now they're going to determine your fate
+32:42
+in this department. AUDIENCE: Does this mic work? Is this on? Do I need to use the mic.
+32:48
+You can hear? Well thank you again for your arguments. Certainly the panel felt that the pro arguments
+32:56
+in terms of the benefits of active learning are great. And we definitely support that.
+33:02
+However, given the time frame, and this proposal is very aggressive, it would be extremely disruptive.
+33:08
+Also the amount of funds that we think that it would take to implement this would be very high without any proven way to measure success.
+33:17
+So what we are willing to do is commit funds to a pilot program, where we can then measure what the success will be and then make
+33:24
+it a decision next year as to whether or not we invest for the rest of the departments.
+33:34
+[INTERPOSING VOICES]
+33:43
+JANET RANKIN: So I hope you found this exercise useful. I just want to debrief on the exercise itself,
+33:50
+why we bothered to do it. It took probably 45 minutes of time to do it.
+33:56
+But I made a decision that would be useful. So what did we get out of this exercise?
+34:02
+What was the point? AUDIENCE: Whether you think that's it's worth it or not,
+34:09
+it's really important time. Also, it seems this confrontation is happening a lot in the department, especially
+34:17
+[INAUDIBLE] as they go through the program.
+34:22
+I assumed this test would be debated quite a bit,
+34:28
+internally and externally. JANET RANKIN: Other reasons we engaged in this?
+34:34
+AUDIENCE: I think it gives everybody the opportunity to think deeply about the subject matter.
+34:40
+And it also, even if you are against or for something,
+34:45
+you have to have a deeper knowledge to be able to bring out the good points, certain issues that
+34:51
+might actually make see [INAUDIBLE].
+34:57
+JANET RANKIN: [INAUDIBLE], you want to add to that? AUDIENCE: The topic is active learning. And what we just demonstrated is active learning in practice.
+35:06
+JANET RANKIN: Yes, exactly. And the idea to Gordon's point, the idea that it can be very, very useful for you to have students
+35:15
+take an arbitrary position and argue it, because they will learn things, they will think about things, that they would not
+35:22
+have thought about otherwise. And it's usually not a good idea to say OK everybody that thinks this, go over here.
+35:28
+Everybody that thinks this, go over here, because all that does is reinforce what people think already.
+35:34
+And maybe it's not completely correct. So this is often a very good technique,
+35:39
+when there's two clear viewpoints or two clear sides.
+35:45
+And you want students to really engage with that. And exactly, we could have had a discussion. Or I could have had PowerPoint slides that
+35:52
+said, here are the good things. Here are the pros with active learning, bum, bum, bum, bum, bum.
+35:57
+Here are the cons of active learning, bum, bum, bum, bum, bum. And that would've taken-- just to come out of my neutral position here--
+36:03
+that would have taken probably four minutes.
+36:08
+Instead we took 35 or so, 40 minutes.
+36:13
+But I think you probably engaged with some of the ideas and concepts a little bit
+36:18
+deeper, because you had to come up with it yourself.
+36:26
+So yes, all those reasons. And it does come up often. People are discussing it.
+36:31
+And it's not so clear cut. There's not a right answer. And you're going to want to say, OK, well we'll do it by 2019.
+36:38
+Or we'll do it. But we won't do that. There's going to be deals and all those kinds of things.
+36:44
+And that's OK. It's OK that there's not a right answer. But that was the point of this exercise.
+36:50
+So that served as our discussion for active learning. But you guys did it. I didn't do anything.
+36:56
+AUDIENCE: And that buttresses the point that active learning is the way to go.
+37:03
+JANET RANKIN: Thank you. Yes, this is very meta. This is very meta here.
+37:08
+Yeah and I do have to feel a little bit bad when you're like, what? Then we're going to do all the work. And the lecturer's just going to sit back and not do anything.
+37:16
+I took it personally. But no, no, it's OK. One thing I wanted to bring up is
+37:22
+if you haven't read the Scott Freeman article, it's in the reading list for today.
+37:28
+It shows-- let me just bump to it-- it shows essentially these results.
+37:35
+He did a meta analysis of 225 studies on active learning or on classes that that used active learning.
+37:42
+And they showed a 12% decrease in the failure rate in classes that used active learning.
+37:50
+And so I was telling the pro group that what say in the paper is that if it had been a clinical drug trial,
+37:57
+and 12% of the people on the drug were having a better outcome than the people on the placebo, they would have had--
+38:05
+or the people on the control-- they would have had to stop the trial and give everyone the drug.
+38:13
+So in the sense of why we're still lecturing,
+38:18
+that's to me one of the biggest compelling reasons for why we should be doing more active learning. 12% of the students are going to pass the class, on average,
+38:28
+normalized. And they actually considered both experienced lecturers, who
+38:36
+were just lecturing, people that were considered to be good lecturers that were just lecturing, as well as graduate students who were first time teachers
+38:44
+but were using active learning. So they looked at all sorts of-- they mixed up all sorts of outcomes.
+38:49
+And active learning appears to, the data's pretty conclusive. And this isn't the only study that shows it.
+38:55
+So there are definitely issues. There are definitely implementation issues. They're definitely sticking points.
+39:02
+But it's something that I think we can't ignore. AUDIENCE: I just want to add that it's not
+39:08
+only that we have 12% decrease in the failure rate. We also have big shifts in the letter grade students get.
+39:16
+For instance, more people shift from grade C to grade B or from B to A. And B to see a test like that.
+39:24
+So that's really significant also.
+39:30
+JANET RANKIN: So I just want not have learning outcomes.
+39:37
+But I did want to have the discussion before I even introduced them. So I think you'll be able to explain the impact of active learning exercises in the classroom.
+39:44
+You've already started to do that. And then you'll be able to identify and develop active learning exercises that you'll want to use.
+39:50
+And you'll be able to think about how you might use them. I think, pretty attainable learning outcomes.
+39:57
+I'm going to show the slide a lot throughout the rest of the time. But remember, it's constructive alignment.
+40:04
+We've seen this diagram before. But the beauty of some of these active learning techniques
+40:09
+is that their formative assessments of students' understanding, of students' learning. And so they are actually activities
+40:16
+that happen in the class. But they're also measures, informative, formative measures
+40:23
+of whether students are learning or not. So if somebody had come up with a really terrible argument,
+40:30
+or it was clear that nobody had read any of the papers on the active learning research, then I
+40:36
+would know that from this debate. I know what you've read and what you haven't read,
+40:41
+and what you're thinking about and what you're not thinking about. And I get a good sense for whether or not it you know it
+40:47
+and how much and how well you know it. And so do you. And we'll see that a little bit more
+40:52
+in these other situations, where if you get a clicker question wrong or you get a multiple choice question wrong
+40:57
+or that you can't participate in the lightning round, then you know that you've got to step up to the plate.
+41:04
+Or you need to try something different. Or you're not really getting it. So you get information.
+41:10
+The learner gets information. And the teacher gets information. AUDIENCE: I just thought that was really powerful
+41:15
+in the readings, as well. They mentioned that, that students who, when they get in the group sections,
+41:20
+if it's clear they really are getting a lot of things wrong, they know they need to step up.
+41:26
+And that's in a different way, I think, than getting a bad grade on a paper. And you know the average distribution or whatever.
+41:33
+Or the professor says you're wrong. But when you know that the people sitting right next to you are getting it and you're not, that really, I think,
+41:41
+will push the student forward to do something. JANET RANKIN: It's news you can use.
+41:47
+It's information. And then you're not being penalized. You're not in trouble. It's not affecting your grade if you
+41:54
+act on it, if you take the information and use it. So that's why, I think that's the beauty of it.
+42:00
+There are many, many active learning techniques. And if you looked at the website from University
+42:07
+of South Florida has just, I think, it's close to 200 techniques for what you might do.
+42:12
+I'm doing a bit of a-- I call it the foie gras method. You know how they make foie gras?
+42:20
+They force feed the goose. So I'm going to give a lot. And we're going to do a lot of different active learning things in this session.
+42:26
+It's a little bit comical. I know it's kind of funny how many we're
+42:32
+trying to cram into two hours. But I'm going to try to do that. So we'll do some of these.
+42:37
+And we can talk about any one of them in particular. But a nice one to get students in the frame of your class
+42:45
+is to they come in. And they have five minutes before you do anything to write down what they thought was the most interesting part
+42:51
+of the reading or answer a certain question related to the reading or solve a problem or whatever it is.
+42:58
+You give them a prompt. You sit down. You focus them. And then they're off.
+43:05
+I do want to just focus on the word active for just a second.
+43:10
+It may help you to think about active and interactive learning. There's all sorts of ways to chop it up.
+43:15
+And at some level, it's semantics. But at some level, it isn't.
+43:20
+So students can be active if they're sitting by themselves thinking about something
+43:25
+and writing something down or solving a problem. That is active learning.
+43:32
+They don't have to be talking to each other. You can do active learning in a class of 3,000 people.
+43:43
+Stop and think. Answer this question. That's active learning. That's way more than happens in a lot of classes.
+43:52
+Interactive learning generally implies that students are talking to each other. That's the most general categorizations you can get,
+44:00
+active, interactive. So we're going to do a bunch of stuff
+44:05
+with clickers or plickers, these things.
+44:11
+But there's some other techniques you can do. You can put up a graph or an image. And you could say, OK, somebody come up
+44:16
+and show me the green boundary in this picture. Show me a triple junction. Show me where the building, the crack in the building started.
+44:25
+Show me whatever. And you pass the pointer. And then you have the student who
+44:30
+has the pointer come up with another question and pass it to somebody else. So that's another nice technique that takes the responsibility
+44:42
+off of the teacher. And so you're not picking on students.
+44:51
+We've been doing mud cards, think, pair, share. We're going to do a lightning round. I'll talk a little bit more about jigsaw later.
+44:57
+And if time allows, I'll show you a demo I did on diffusion using the students as the atoms.
+45:03
+45:09
+Sometimes if you're trying to ease in active learning, slowly into your class-- you don't want to do too much--
+45:17
+you want to think about the short time things that don't require huge disruptions.
+45:23
+If you want to go back to your seats, you can. Maybe I should let you guys do that. So you know what we'll do?
+45:29
+While they're taking a break, I'm going to demo the beach ball. So this is nice.
+45:34
+This is the beach ball technique. So when you catch the ball, I'd like you to tell me if you've had any experiences
+45:41
+with active learning in classes that you've taken. And you can't count this one.
+45:50
+AUDIENCE: I had active learning in my electricity and magnetism class. And that was called TEAL.
+45:58
+And it's very polarized. The people for and against it, especially the students.
+46:04
+So they basically tables of nine. And then within that table, you had groups of three.
+46:11
+And each of those would be a problem solving group. So you'd have four problems to solve per two hour class
+46:16
+period. And that would be going up to the board look and doing it by themselves. And then the teacher at the end would reveal the answers
+46:22
+and tell us how to go through it. And, for my group at least, there was always--
+46:27
+or my table-- there was always this one person who would write every single time--
+46:32
+JANET RANKIN: 3,000 People. Stop and think. Answer this question.
+46:39
+That's active learning. That's way more that happens in a lot of classes.
+46:46
+Interactive learning generally implies that students are talking to each other. And that's the most general categorizations
+46:53
+you can get active, interactive. So we're going to do a bunch of stuff with clickers,
+47:00
+or plickers, these things. But there's some other techniques you can do.
+47:07
+You can put up a graph or an image. And you could say, OK, somebody come up and show me the green boundary in this picture.
+47:13
+Show me a triple junction. Show me where the building, the crack in the building started.
+47:19
+Show me whatever. And you pass the pointer. And then you have the student who has the pointer come up with another question
+47:26
+and pass it to somebody else. So that's another nice technique that takes the responsibility
+47:36
+off of the teacher. And so you're not picking on students.
+47:42
+We've been doing mud cards, think, pair, share. We're going to do a lightning round.
+47:48
+I'll talk a little bit more about jigsaw later on. And if time allows, I'll show you a demo I did on diffusion using the students as the atoms.
+47:57
+48:03
+Sometimes if you're trying to ease in active learning, slowly into your class--
+48:10
+you don't want to do too much-- you want to think about the short time things that don't require huge disruptions.
+48:17
+If you want to go back to your seats, you can. Maybe I should let you guys do that.
+48:22
+So you know what we'll do? While they're taking a break, I'm going to demo the beach ball.
+48:28
+So this is nice. This is the beach ball technique. So when you catch the ball, I'd like
+48:33
+you to tell me if you've had any experiences with active learning in classes that you've taken.
+48:39
+And you can't count this one.
+48:46
+AUDIENCE: I had active learning in my electricity and magnetism class. And that was called TEAL.
+48:54
+It's very polarized, the people for and against it, especially the students.
+48:59
+So we basically had tables of nine. And then within that table, we had groups of three.
+49:05
+And each of those would be a problem solving group. So you'd have four problems to solve per two hour class
+49:11
+period. And that would be going up to the board and doing it by themselves. and then the teacher at the end would reveal the answer and telling us
+49:18
+how to go through it. And for my group at least-- or my table-- there was always this one who
+49:25
+would write every single time. And I feel like that detracted from active learning.
+49:30
+I think it worked better for other people. JANET RANKIN: It's definitely polarized.
+49:36
+Students really are not-- I think we talked a little bit about this when we did some of the learning theories--
+49:42
+but students really are polarized about whether they like it or not.
+49:48
+The data that there's been some pretty good analysis of learning, measuring how much students learn,
+49:54
+and then how much they retain and all that kind of stuff. And when you go through that, students seem to learn more and retain more in the active learning
+50:03
+format, even though they really at least half of them don't like it at all. So it's an interesting commentary
+50:10
+That's a good great story. So why don't you give the ball a toss?
+50:16
+There you go. No, you have to answer a question.
+50:22
+Have you ever experienced active learning in a classroom besides this class? And how did it work or not work?
+50:29
+AUDIENCE: I would say yes to that. It's definitely the traditional method, sitting in front,
+50:35
+face to face lecture. JANET RANKIN: Fair enough.
+50:40
+Give a toss, toss to anyone.
+50:45
+Are we going to get the same answer from all of you? If it's just-- AUDIENCE: Is it the same question?
+50:51
+JANET RANKIN: Yeah, same question. AUDIENCE: Yeah, I have.
+50:56
+Because I recently studied in Sweden. And that's the way, most of the time that way,
+51:03
+they teach in Sweden. So for some classes, generally in higher level classes,
+51:10
+according with d-level classes, they use active learning. JANET RANKIN: Great and students buy into it?
+51:17
+They're OK with it? They work at it? AUDIENCE: Culturally, they tend to veer
+51:23
+towards active learning. JANET RANKIN: And that's a very interesting point,
+51:29
+the idea that it can be a cultural thing.
+51:34
+If everybody else is doing it, or it's expected, then that's what you do right. So some of these changes, there's an incubation period
+51:43
+before they actually take off and they're widely accepted. AUDIENCE: In fact in Denmark, I think that's the only way they each.
+51:50
+JANET RANKIN: It's pretty active. I have a colleague who's in, or friend who works at the University of Copenhagen,
+51:58
+and all new faculty have to take a yearlong course on teaching,
+52:03
+no matter what department, physics, math, a year long, the faculty. And here you could never force the faculty to do anything.
+52:13
+So it's pretty interesting that they've been doing it for so long. AUDIENCE: I have a question about that. Is it the way that professors, their role as actual teachers
+52:24
+is viewed? [INAUDIBLE] But seriously, people [INAUDIBLE] or something, I think definitely trying to enforce a teaching
+52:30
+class would be a lot more receptive than if you tried to enforce that here, where teaching isn't necessarily the focus.
+52:38
+JANET RANKIN: But there, it's a good research university. But on the teaching side, that's the norm.
+52:45
+That's the expectation. AUDIENCE: But what about requiring-- I know it's hard when you have professors that have been doing what they're doing for 25, 30, 40 years.
+52:53
+It's hard to get them to adopt new techniques. But I think that requiring things-- the faculty that you can require things of are the new faculty, who
+53:01
+have no power yet. JANET RANKIN: Yes and no. If the tenured system, the requirements for tenure
+53:08
+don't change, then asking them to take on new-- oh,
+53:13
+you guys should try active learning. Revamp this course. And then they don't get tenure.
+53:18
+So it really has to be a whole systemic change, where the department buys in.
+53:24
+The school buys in. The university buys in and says, OK, these are the criteria for tenure.
+53:29
+And in that is you have to use active learning. Or you have to--
+53:35
+that's where it would have to get change. Otherwise you can't expect people that aren't tenured to do it.
+53:40
+You shouldn't. Let's give the ball one more toss.
+53:50
+AUDIENCE: So it's been a long time since I've been in a classroom. I would say, in a regular classroom,
+53:59
+I don't that I've been in a class that does active learning. But I have taken courses that are largely lab courses,
+54:08
+like a mouse embryology course, where you have 15 minutes of lecture.
+54:14
+And then you go into the lab And you do it. And the professor will walk around and help you with the technique.
+54:20
+You're actually there with the mice. And you're actually doing something. So does that count?
+54:26
+JANET RANKIN: Lab courses can be their own genre. But there has been this movement to take
+54:34
+that's a little bit of what TEAL does, at a more simple level. And there's a little bit of lecture.
+54:40
+And then students are supposed to answer some questions or do something. And then they come back together.
+54:46
+And Studio Labs at WPI has that same format, where the classrooms are built with lab benches.
+54:53
+And students sit at lab benches and see a lecture. And then they do some experiments.
+55:00
+They're mini experiments. It's not whole mouse dissection.
+55:07
+But they do a mini experiment. And then they report back. And there's an interchange like that.
+55:12
+So there are some blending of the two. Often what people do in labs is different.
+55:20
+And usually a good lab is fabulous. A good lab is fabulous, which is another argument for why
+55:26
+active learning is good, because everybody thinks back about, oh, that lab course was so great. I learned so much and did so much.
+55:32
+And yet that's the lab course. And then we have the lecture. So it's an interesting comment.
+55:40
+So that was the beach ball. And you see you guys got to throw the ball at other students.
+55:45
+So I didn't have to pick on every-- I didn't have to call on people or pick on people.
+55:53
+I had a little demo here about why it's important, just if you ask a question or you ask students
+56:01
+if there are any questions or what questions they have. And that's generally a better phrase. What questions do you have?
+56:08
+It's more welcoming, opposed to saying OK, who's stupid enough. Who's not following me?
+56:15
+Say, OK, what are the questions? It's a more welcoming phrase.
+56:20
+But the idea of waiting. So here, if I click on this little guy,
+56:26
+you should hear 30 seconds of music.
+56:31
+So imagine you ask a question, 30 seconds for people to think about it and formulate an answer. This is what 30 seconds feels like of dead time.
+56:41
+Well, there'll be music. [MUSIC PLAYING]
+57:07
+That's not part of it.
+57:15
+So did that feel like a long time? I know we had a little break there. But that feels like a lot.
+57:22
+Especially when you're standing up here, it feels like a long time. But 30 seconds, give them 30 seconds.
+57:30
+The point is, if you want to give students 30 seconds, you're going to have to time it. You totally have to time it, because you will not estimate
+57:37
+30 seconds effectively. You will totally underestimate it. And then another technique that you
+57:44
+can piggyback on that is saying, OK, take 30 seconds. I'm not going to take any answers for 30 seconds.
+57:51
+So you may have an answer right away. But I don't want to hear it for 30 seconds, because there's always that guy in the front.
+57:56
+I had this guy in my high school math class. And he used to sit on his-- this little short guy--
+58:01
+and he used to sit on his foot on the chair. He's on his chair. And he's sitting on his foot. And he had his hand like this.
+58:06
+And he was in the front row. And whenever the teacher asked the question, he would go.
+58:11
+And he would come up off of it. And so he was always the guy that answer the questions. But that left some of us who took a little more time
+58:21
+not having the opportunity, kind of like having the one person write all the time in the TEAL group.
+58:27
+So that's a good way to go about that. We talk a little bit about using clicker questions
+58:34
+to solicit feedback. And we've used the plickers in this class. We'll use them again.
+58:40
+You can get dedicated clickers, these dedicated punch in things. They use them for TEAL, I think.
+58:47
+Students may have to purchase them. That may cost money. The department may have to purchase them. That's another source of money.
+58:53
+AUDIENCE: They make us buy everything. JANET RANKIN: So when I was at Brown, actually,
+59:00
+the department would buy them. And they'd leave them in the library. And then you could check them out with your student ID.
+59:06
+And then you got that. So you got it for the semester. But it was linked to your ID. And if you didn't bring it back, they'd charge you for it.
+59:12
+But that's another way to do it, a fairer way to do it. We'll look at something called Socrative later on.
+59:20
+I'll use it later on. But it's a text. It's an online format. So students need a smartphone or a laptop.
+59:27
+But they don't need a separate clicker. There are issues with that, because not everybody is
+59:32
+going to have a smartphone. And are you biasing your class against people that don't
+59:37
+happen to have the technology? This is why I like plickers, because you don't need to buy anything.
+59:43
+I give you the card. And I need to have the smartphone. But you don't.
+59:49
+And then you could always use index cards or do the whole, put one finger up if you think it's A and two if it's B and three if it's
+59:57
+C. That gets a little tough in a bigger class, because it's hard to see.
+1:00:02
+It's hard to count. I like the fact that the clickers, plickers,
+1:00:08
+and the Socrative or Poll Everywhere give you a histogram. So you get a really quick idea about who's getting it
+1:00:14
+and who isn't getting it. So we're going to do a couple of these. Remember-- this is from the label of the free body
+1:00:21
+diagram-- that these misconceptions always
+1:00:28
+linger in a lecture class. We talked about this free diagram the other day.
+1:00:34
+So let's just try this one here, give you another little warm up on the picker's. So you have the card.
+1:00:40
+And I'm just going to ask you to look at the question.
+1:00:47
+And when you're ready to answer, just hold up your card. And if you can keep your finger away from the pattern,
+1:01:00
+that would be great, because it makes it hard to read it. And then however you want to--
+1:01:06
+1:01:14
+AUDIENCE: Does this work for larger classrooms? JANET RANKIN: It does. I have a colleague who uses it at Brown.
+1:01:20
+And he just started teaching this semester. And he showed me his-- or a friend-- he showed me his plickers.
+1:01:28
+And he printed them out on 8 by 10, like a sheet of paper, cardstock.
+1:01:35
+And they're enormous. They're like this big. AUDIENCE: How do you not get [INAUDIBLE]?
+1:01:41
+Well Well they have to hold them up. You have to. And you can walk around a little bit. But I'll show you this.
+1:01:47
+So I have the histogram. And I measured everybody.
+1:01:53
+So now I know what you think about this question. I know who's got it right. I don't know who's got it right.
+1:01:59
+But I know that most of you have chosen the correct answer.
+1:02:12
+But there were a few of you picked up one of the other answers.
+1:02:18
+And so now I know that it's a non-trivial number of you that picked an incorrect answer.
+1:02:26
+So now I know exactly what I need to do. It's given me incredibly good information
+1:02:31
+that there is some out there that have a pretty strong misunderstanding of the literature.
+1:02:38
+And that's that some of you picked A. There's a lot of data to support that active learning,
+1:02:48
+active technique supports student learning. I call your attention to the Freeman paper that's in the reading for today, also to the [? Haik ?]
+1:02:55
+article, which was referenced. So those are two of the more compelling readings.
+1:03:01
+But if you go through, you'll see quite a few studies that unambiguously show that active learning has an impact.
+1:03:08
+So the incorrect answer is that it always involves group work. That's not true. It doesn't always involve work.
+1:03:13
+As we said, you could just ask students to sit and think and then do something with their thoughts. And that would be active.
+1:03:20
+So Rachel, you're smiling. Is there a-- OK.
+1:03:26
+AUDIENCE: Sometimes my face just does that. JANET RANKIN: I didn't know whether it was a smirk or whatever.
+1:03:31
+And did I show you what this looks like? So you can see with the histogram looks like.
+1:03:37
+I did? [INTERPOSING VOICES] You weren't here, though, when I did.
+1:03:43
+The time I used it before. I'll show you offline. So the histogram is really, really useful.
+1:03:50
+So it really can ferret out some misunderstanding.
+1:03:56
+We don't have to go through all these. But this is another way to check for misunderstanding. I can ask this kind of question.
+1:04:02
+It's a concept question. It's a conceptual question. And then I can ask you to pick an answer.
+1:04:08
+And then I can see where your misconceptions lie about this topic.
+1:04:15
+So it can be very, very-- it should be very, very focused. It's not just a busywork question
+1:04:20
+it's a focused question with focus distractors. The distractors are the incorrect answers.
+1:04:27
+AUDIENCE: Can we do this? I want to see what the spread of answers is. JANET RANKIN: Sure. Let's do it. AUDIENCE: They asked this question--
+1:04:32
+I laughed, because they asked a very similar question at Harvard graduation. JANET RANKIN: Exactly.
+1:04:38
+What was it called, a world of their own? AUDIENCE: Yeah one of those.
+1:04:45
+JANET RANKIN: Two times, check. I've got to clear my responses.
+1:04:54
+Let's go.
+1:05:00
+So I'm getting you folks in the back without a problem.
+1:05:10
+I got one. I'm missing one of you.
+1:05:17
+Wow. So there's any number of things I could ask. We're going to do another pair, share
+1:05:22
+around this kind of thing. But maybe not for this one. But this is amazing.
+1:05:28
+Basically it's A got three votes. B got three votes. C got four votes.
+1:05:33
+And D got three votes.
+1:05:39
+So it's pretty amazing. AUDIENCE: What is the right answer?
+1:05:45
+JANET RANKIN: Biologists? AUDIENCE: B.
+1:05:52
+JANET RANKIN: The answer is B. And it's the most-- maybe not surprising-- but the idea
+1:05:59
+that it's taking in things from the air. They're taking in gases.
+1:06:04
+But there's chemical reactions which manifest themselves in a weight gain.
+1:06:10
+[INTERPOSING VOICES]
+1:06:17
+It's not a biology class, which is why-- so that's just super telling.
+1:06:25
+That would be incredible. If this were a biology class and that was the spread, that would just be really, really informative
+1:06:31
+for the instructor. AUDIENCE: Really worrying. JANET RANKIN: Well yeah, that too. But it's biology class. So don't worry.
+1:06:38
+But you do want to think very, very carefully about the wrong answers, because you want the wrong answers to tell you
+1:06:44
+something about what students understand or don't understand.
+1:06:51
+Generally speaking in the adoption of clickers, plickers, whatever, takes a three step process.
+1:06:59
+One is that people generally start with these simple fact questions,
+1:07:04
+and then more challenging conceptual questions, which I would put the one we just did at.
+1:07:10
+That students, they might-- arguing with each other could be useful.
+1:07:16
+And then the third is you've just totally revamped the lecture. And it's all centered around these questions.
+1:07:21
+And depending on how students answer, that's how you navigate through the lecture
+1:07:27
+or through the course, class period. I would never recommend that anybody start with this one.
+1:07:33
+I think that we're all capable of starting with two actually. And I think starting with three may be a waste of time,
+1:07:39
+unless you really just want to check and see if people did the reading or something. It's a big class. And you just want to see if they've done the reading.
+1:07:45
+But in general, I would say put your energy into coming up with some really good questions. And maybe don't ask as many.
+1:07:51
+And then as I keep saying, I hope
+1:07:56
+you can start to see how that's really, really linked. It's a measure of whether they get it. But it's also an activity to help them get it.
+1:08:03
+So I've been minoring the Back Channel.
+1:08:10
+Nobody's saying anything except for Dave. And I answered him.
+1:08:15
+And because I gave you a break before, I may scoot on, continue on.
+1:08:22
+So if you want take a second and login, that's fine.
+1:08:28
+But I may not-- AUDIENCE: That's the link for last year's. AUDIENCE: I entered it, and I put entered into last year's.
+1:08:34
+And I got really confused. JANET RANKIN: Uh oh. So the one for this year is back here. Hold on.
+1:08:40
+AUDIENCE: It's like four something, 4125 instead of 3969. JANET RANKIN: Oh OK, thank you.
+1:08:46
+1:08:55
+So while you're doing that, I'm going to set up something which is called lightning round.
+1:09:01
+And we're doing these two. So I'm going to just, sitting in your seat,
+1:09:07
+if you can think about this question, just the question
+1:09:13
+on the left. Based on research at NASA, what was the approximate net global change in temperature between 1880 and 1975?
+1:09:22
+It's not a plicker question. It's just a question. Try to think about what you think the answer is.
+1:09:28
+1:09:37
+AUDIENCE: What is Celsius to Fahrenheit? JANET RANKIN: To get from Celsius to Fahrenheit?
+1:09:46
+So you have to-- well I always just double it and add 30.
+1:09:51
+So it's 8/5 plus 32.
+1:10:01
+[INTERPOSING VOICES] 8/56 plus 32 is the real equation.
+1:10:26
+Is it 8/5 or 9/5? AUDIENCE: 9. JANET RANKIN: 9/5 That's why I just double it.
+1:10:33
+Close enough.
+1:10:43
+So what I'm going to ask is that-- let's see--
+1:10:48
+David, Gordon, and Julie. And if you can move down, down, just to the end.
+1:10:59
+And then if Adam, [INAUDIBLE], Dave can come around?
+1:11:09
+1:11:22
+Just keep going. Keep going. Keep going. That's fine.
+1:11:27
+One, two, three, four-- no, no. You have to stand up, guys. No relaxing.
+1:11:34
+Yes, but that's not-- I can tell a story. Please stand up and move over.
+1:11:39
+Move over. And just keep coming around. Everybody's up. Everybody's doing this.
+1:11:48
+Michelle, so I need six, Michelle come on over here next to [INAUDIBLE].
+1:11:56
+That's fine. Now [INAUDIBLE], you come around here please, and go opposite David, please.
+1:12:06
+And everybody else just file in and go opposite someone.
+1:12:14
+Sarah, do you want to participate?
+1:12:21
+So here's what happens. I'm going to tell you to go. And you have two minutes.
+1:12:27
+The person in this line takes some amount of time and says what their answer is and why they chose it.
+1:12:36
+And the person in that line can ask questions or whatever, and then say what they thought and say why they thought that.
+1:12:42
+So you're going to have a really quick conversation about your choices. And after two minutes, I'm going to tell you to please stop.
+1:12:50
+And then you have to get a new person. And I'll show you how to do that.
+1:12:56
+Everybody understand what we're doing? You're having a two minute exchange of ideas. And it's going to be loud.
+1:13:02
+Believe me. And it's the person opposite you.
+1:13:09
+Are you ready? Everyone ready? On your mark, get set, go.
+1:13:19
+[INTERPOSING VOICES]
+1:13:45
+Let me ask a question. Did you encounter people that had different choices than you? AUDIENCE: Yes. JANET RANKIN: Yes.
+1:13:53
+So that generally means it's a pretty good question,
+1:13:58
+because you get to hear lots of different perspectives. Now if this were the central part of the class, this topic,
+1:14:05
+you might let the pairings go even longer, even more pairings.
+1:14:10
+So did anybody change their mind based on what they heard a partner say?
+1:14:17
+OK, a couple of you. Generally, what happens then is you would want to have a de-brief, where
+1:14:23
+we talk about why you picked the answer you picked and what you picked. And most of the time, the choices
+1:14:31
+are a little been informative. If you found, as the instructor, that everybody picked
+1:14:36
+a negative number, well you're in a very different place than if people are arguing over how much positive it is.
+1:14:44
+So you're going to use that information to find out about where the misconceptions are.
+1:14:52
+What's the advantage of this method?
+1:14:58
+Gordon. AUDIENCE: It's very interesting, I thought. One I found out is that the students talk to each other.
+1:15:05
+We never talk to each other. And it's easier for them as to [INAUDIBLE].
+1:15:12
+So at the beginning, they are aware of conflicts. But as we rotated, there was a convergence.
+1:15:19
+It was very interesting. JANET RANKIN: [INAUDIBLE] have your hand up.
+1:15:25
+AUDIENCE: Yes, one time I was laughing just because it was very effective.
+1:15:32
+There was so much [INAUDIBLE]. And when we started, one resisted
+1:15:39
+some passionated idea about this is how it should be. And by the time it went to all the people,
+1:15:44
+people can get all the idea. You try to look for the superior idea. Then you decide, oh, this is better.
+1:15:52
+When we try to switch again, you listen to a better argument.
+1:15:59
+So from which one decides without [INAUDIBLE] the first one?
+1:16:05
+JANET RANKIN: A couple of points. One is that it's impossible not to-- when you pair people up,
+1:16:11
+it's pretty hard for somebody not to participate. So if you have somebody that's resistant,
+1:16:18
+they might still be resistant. But it's virtually impossible for them not to participate. And also it's a little less scary.
+1:16:23
+One person, it's really noisy. You know you only have to talk to them for a minute or two. So it's a little less scary.
+1:16:28
+Everybody's doing it. The other thing is that you definitely want
+1:16:33
+to have some sort of de-brief. You can't just stop and go, OK, let's go on. You're going to have to find out what people's answers are.
+1:16:40
+And you're going to have to address it or at least reveal the right answer, because there's many places
+1:16:46
+many, many places for misconception. And also, then, if you do it enough,
+1:16:52
+you can maybe-- students can find arguments or people's explanations that
+1:16:57
+resonate with them. And then you get exposed to different kinds of arguments
+1:17:02
+or different kinds of ways of explaining the problem. So in this case, the answer is actually positive 0.4 degrees.
+1:17:11
+So B is the correct answer, just so you know.
+1:17:18
+AUDIENCE: Yes, I just want to make a comment that sometimes this method could be confusing as well.
+1:17:23
+For instance, if you listen to two superior arguments, one against. For instance, I talked to someone who was actually
+1:17:31
+in support of negative. And she brought an argument and so forth like that.
+1:17:37
+And somebody thought of positive. And there was a strong argument also for that. Sometimes if you just be sitting on the fence,
+1:17:44
+I don't know where to get off. JANET RANKIN: Well I think it's OK to be confused for a while. That's fine.
+1:17:49
+As I said, if this were a course on global warming, climate change, whatever it is, we would have to make sure
+1:17:55
+that we heard all of those explanations or a sampling of those explanations and said, oh, well that's a good.
+1:18:02
+I can see why you think that. But you've forgotten about this. Or I can see why, so that you can process it
+1:18:09
+all so that people don't leave confused. But it's good to hear the wrong answer,
+1:18:14
+to be convinced of the wrong answer, maybe, but then to see why it's wrong.
+1:18:19
+That's an important learning activity. AUDIENCE: But this method is only
+1:18:25
+applicable for where you have cases where you can debate. Because if you have very clear cases, for example, if I ask,
+1:18:33
+what is the color of the sky? It's a definite.
+1:18:38
+But when it's fuzzy, then this can be-- JANET RANKIN: Yes, or when it's a concept
+1:18:44
+you think people might have difficulty with. Yeah, it's not going to work if it's a real clear cut.
+1:18:52
+I want to demo one more method. This is think, pair, share.
+1:18:59
+And I know we've been doing those forever. But I'm going to couple it with a clicker question.
+1:19:06
+And I think we can do it in seven minutes. So
+1:19:11
+I have two blocks here, because this is just too fun, really. I have two blocks.
+1:19:16
+They're the same width and the same. Length but they are different thickness.
+1:19:22
+And I have this thing. And I'm going to tap on the thin block.
+1:19:27
+Makes more or less--
+1:19:33
+it's not really a note. But it's some sound. And I'm going to ask you, when I do
+1:19:39
+the same thing, the same force, the same place
+1:19:46
+on the thick block, will the note be higher, lower, or the same as the thin block?
+1:19:53
+And this should be A, B, and C, not one two and three. So but if it's A, B, and C go ahead
+1:19:59
+and vote with your plickers. Do you know that's what they auto correct to?
+1:20:05
+That's what it, if you're typing and you write plickers, it autocorrects to pluckers, which
+1:20:11
+can be pretty embarrassing. AUDIENCE: So high is for A. You've not
+1:20:17
+clicked on the thicker one. JANET RANKIN: I know. That's why you have to tell me what you think it is.
+1:20:25
+AUDIENCE: Is this a A, B, and C? JANET RANKIN: A B and C. So there's no D. There's a reason for this.
+1:20:33
+If I told you the answer, then there wouldn't be much fun in voting.
+1:20:45
+And I have everybody. So I have a distribution.
+1:20:51
+I'm not going to tell you the distribution. I'm not going to share that with you I'd like you to take-- just cluster.
+1:20:58
+It could be groups of three or four, whenever you have nearby, and talk about why you picked the answer you picked.
+1:21:06
+And then I'm going to give you the opportunity to vote again. So in the interest of time, two minutes to discuss this.
+1:21:12
+[SIDE CONVERSATIONS]
+1:21:36
+I wanted to just call attention to a couple things I did. I walked around and tried to eavesdrop on your conversations
+1:21:43
+so that I could tell what you were thinking about, but without putting you on the spot, without asking you to say, in front of everybody,
+1:21:50
+what you thought. So that's one thing to do. Now I have a sense for your mental models, how you're thinking about the problem.
+1:21:56
+So I have some really good information about why you think the answers you think.
+1:22:04
+What I'm going to do is I'm going to give you the chance to re-vote. If you want to change your vote, you may.
+1:22:10
+Or you don't have to.
+1:22:17
+Some of the clicker software actually lets you save consecutive histograms,
+1:22:22
+which can be useful. You can compare if there's change. This doesn't let you do it. So I just have to--
+1:22:28
+AUDIENCE: Voting twice there? AUDIENCE: I'm voting for [INAUDIBLE].
+1:22:33
+He's not present, so-- JANET RANKIN: Voting in Chicago, early and often.
+1:22:50
+We have exactly the same distribution, which flies in the face of some other data I
+1:22:59
+was going to show you. But that's OK. I'll just in the interest of--
+1:23:05
+so one thing I could do is I could call on you. And I could say, OK, if you said it was lower, tell me why you thought it was lower.
+1:23:11
+And I could get some arguments for why you thought it was lower on the board. So some people think of cellos make lower sounds than violins.
+1:23:21
+And some people think that doors on mansions have a low sound.
+1:23:29
+And other people talked about xylophones and the length
+1:23:35
+and the wavelength of the xylophone, and the longer wavelengths for the longer pieces.
+1:23:44
+So I know a lot about how you're thinking about this problem.
+1:23:50
+The other thing I know is that I am not telling you the answer yet. So there's a little bit of suspense in here.
+1:23:57
+There's a little bit to try to keep you interested and wanting to know, wanting to understand the answer.
+1:24:02
+AUDIENCE: Janet? JANET RANKIN: Yes? AUDIENCE: So you said we had the same distribution. But can we have a show of hands for how many people
+1:24:08
+changed their answer? JANET RANKIN: That's a great question. Yes.
+1:24:13
+Raise your hand if you changed your answer. It could've been amazing.
+1:24:19
+AUDIENCE: So sometimes we've done that in my physics class.
+1:24:27
+When they ask, who changed their answer? And everyone raises their hand. It's the same exact distribution. Or everyone goes from A and B to C and D.
+1:24:33
+And even C and D originally only had three people, you'll see the entire shift. And it turns out A and B was right.
+1:24:40
+When we vote the second time, we all picked another answer. JANET RANKIN: That's very funny. That could have happened.
+1:24:45
+Sometimes a nice follow up question is how confident are you in your answer.
+1:24:51
+So then that's a really good-- because you may have 80% of the people h the right answer but if you say how confident and hardly anybody is
+1:24:58
+very confident then, you do need to talk about it some more. So it gives you some really, really good information.
+1:25:04
+So here we go. Here's this one.
+1:25:12
+It's higher.
+1:25:17
+Exact same material. AUDIENCE: So when you play the marimba and the xylophone, you have bigger bars.
+1:25:22
+That they get really thin when they're on the bass. The bass notes are really thin. And the really small high notes, they're really, really thick.
+1:25:31
+JANET RANKIN: So that's one thing. The other thing is that on a xylophone, it's a standing wave, because you fixed the endpoints.
+1:25:37
+And the wave just vibrates based on the length of the pins, the separation of the pins or the mounts.
+1:25:44
+So in this case, it's a free vibration. So that's another different misconception.
+1:25:52
+And then if you think-- so the easiest way to think about it is a diving board. If you had a thin diving board, and you went and jumped on it,
+1:25:59
+it would go way down and come back up again. That's a long wavelength. And that's a low note.
+1:26:05
+And then if you think about a stiffer diving board that you'd be kind of like, mmm. That's a shorter wavelength.
+1:26:10
+So it's different. You have different-- and then any kind of a cavity, like a cello or a door of a house, if it's a big cavity,
+1:26:19
+it's a bigger standing wave. It's still a standing wave. So those are very different. They are different models.
+1:26:25
+So this technique is really great, because it really gives you incredible insight into what
+1:26:32
+students' misconceptions are. And then you can really make sure to address those misconceptions to deal with their faulty models.
+1:26:41
+So for the post-class assignment, I've asked you to think about what active learning techniques you might adopt in your own teaching,
+1:26:49
+in your own classes. And then think about how you would adapt them, anticipate any issues or whatever.
+1:26:54
+So hopefully you've gotten a good smattering. And I'll post the slides, which have
+1:27:01
+some links and things in there if you want to look at videos. And also check out that list from University
+1:27:08
+of South Florida. That has some amazing techniques that you might find useful.
+1:27:13
+I'm going to send everybody off. But if you'd like to comment on the mud cards-- I know we're over time--
+1:27:20
+I have them here, if you want to make a comment. But otherwise, I will see you next time.
+1:27:25
+And I'd like the plickers back.
+
